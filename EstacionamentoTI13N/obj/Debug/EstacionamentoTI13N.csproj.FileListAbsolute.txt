@@ -1,0 +1,7 @@
+C:\Users\allan.ssilva4\source\repos\EstacionamentoTI13N\EstacionamentoTI13N\bin\Debug\EstacionamentoTI13N.exe.config
+C:\Users\allan.ssilva4\source\repos\EstacionamentoTI13N\EstacionamentoTI13N\bin\Debug\EstacionamentoTI13N.exe
+C:\Users\allan.ssilva4\source\repos\EstacionamentoTI13N\EstacionamentoTI13N\bin\Debug\EstacionamentoTI13N.pdb
+C:\Users\allan.ssilva4\source\repos\EstacionamentoTI13N\EstacionamentoTI13N\obj\Debug\EstacionamentoTI13N.csproj.AssemblyReference.cache
+C:\Users\allan.ssilva4\source\repos\EstacionamentoTI13N\EstacionamentoTI13N\obj\Debug\EstacionamentoTI13N.csproj.CoreCompileInputs.cache
+C:\Users\allan.ssilva4\source\repos\EstacionamentoTI13N\EstacionamentoTI13N\obj\Debug\EstacionamentoTI13N.exe
+C:\Users\allan.ssilva4\source\repos\EstacionamentoTI13N\EstacionamentoTI13N\obj\Debug\EstacionamentoTI13N.pdb
